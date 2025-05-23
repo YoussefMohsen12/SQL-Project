@@ -36,7 +36,7 @@ Database Design
 - Adding indexes to optimize search
 - Analyzing query performance
 
- Views and Stored Procedures *(Optional if used)
+ Views and Stored Procedures (Optional if used)
 - Use of `VIEW`s to simplify queries
 - Use of stored procedures or triggers (if applicable)
 
